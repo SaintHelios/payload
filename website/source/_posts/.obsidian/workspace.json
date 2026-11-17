@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meow.md",
+                "file": "Zonion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meow"
+              "title": "Zonion"
             }
           }
         ]
@@ -188,6 +188,6 @@
   "active": "182c3f95857c8fb7",
   "lastOpenFiles": [
     "hello-world.md",
-    "meow.md"
+    "Zonion.md"
   ]
 }
