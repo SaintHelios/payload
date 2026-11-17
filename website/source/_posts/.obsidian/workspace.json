@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Red",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +185,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "182c3f95857c8fb7",
+  "active": "313ef43677550b8f",
   "lastOpenFiles": [
     "hello-world.md",
     "Zonion.md"
